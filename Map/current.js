@@ -1,3 +1,3 @@
 var position = {
-  area: 14
+  area: 70
 };
