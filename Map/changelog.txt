@@ -1,3 +1,4 @@
 changelog = {
-  [[Initial crowdmap revision]]
+  [[Initial crowdmap revision]],
+  [[Bloodlock update part 1]]
 }
