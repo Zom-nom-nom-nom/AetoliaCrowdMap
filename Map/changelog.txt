@@ -1,4 +1,5 @@
 changelog = {
   [[Initial crowdmap revision]],
-  [[Bloodlock update part 1]]
+  [[Bloodlock update part 1]],
+  [[El'Jazira]]
 }
