@@ -3,5 +3,6 @@ changelog = {
   [[Bloodlock update part 1]],
   [[El'Jazira]],
   [[El'Jazira, again]],
-  [[Highways of Sapience]]
+  [[Highways of Sapience]],
+  [[Dry Plains]]
 }
