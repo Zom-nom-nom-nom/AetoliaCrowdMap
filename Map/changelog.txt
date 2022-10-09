@@ -2,5 +2,6 @@ changelog = {
   [[Initial crowdmap revision]],
   [[Bloodlock update part 1]],
   [[El'Jazira]],
-  [[El'Jazira, again]]
+  [[El'Jazira, again]],
+  [[Highways of Sapience]]
 }
